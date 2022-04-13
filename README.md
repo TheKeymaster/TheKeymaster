@@ -16,8 +16,8 @@ Here are some cool stats about my GitHub profile:
 
 ## Contact 📧
 
-<details open>
-<summary>View EMail address</summary>
+<details>
+<summary>View E-Mail address</summary>
 <br>
 dominik@brader.co.at
 </details>
