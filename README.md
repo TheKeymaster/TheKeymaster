@@ -1,9 +1,23 @@
+# Hey there 👋
+
+I'm Dominik Brader, a FullStack PHP developer. I have experience in many modern PHP and TS/JS frameworks such as
+Symfony, Laravel, Vue and Angular and always learning 💻.
+
+In my free time I like to build new applications and try out new stuff. This way I am always up-to-date with the
+latest technologies.
+
+The most experiences I have with shop systems Shopware 6 & Shopware 5.
+
+## Stats 📊
+
+Here are some cool stats about my GitHub profile:
+
 ![https://github-readme-stats.vercel.app/api?username=thekeymaster&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff](https://github-readme-stats.vercel.app/api?username=thekeymaster&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 
-My name is Dominik Brader and I am a FullStack PHP developer with experience in PHP frameworks such as Symfony and Laravel and experience in frontend frameworks such as Angular and Vue. Currently I am working as Lead Plugin Developer at FINDOLOGIC GmbH.
+## Contact 📧
 
-In my freetime I like to build new applications and try out new stuff. This way I am always up to date with the latest technologies, while learning all the cool new features/frameworks or dependencies.
-
-### Contact
-
-For any business related E-Mails, please contact dominik@brader.co.at.
+<details open>
+<summary>View EMail address</summary>
+<br>
+dominik@brader.co.at
+</details>
